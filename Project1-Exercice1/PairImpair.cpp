@@ -5,9 +5,9 @@
 #include <iostream>
 
 void main()
-{
+{   //Declaration des variables
     int nbr, somme;
-
+    //demander àl'utlisateur un nombre entier
     std::cout << "donnez un nombre : ";
     std::cin >> nbr; "\n";
 
@@ -24,7 +24,16 @@ void main()
     else
     {
         std::cout << "le nombre est impair";
-    }
+
+
+    //plan de test
+    //nbr écran
+    //1   impair
+    //2   pair
+    //-1  impair
+    //-2  pair
+    //0   pair
+  } //a   ce n'est pas un nombre
 }
 
 
