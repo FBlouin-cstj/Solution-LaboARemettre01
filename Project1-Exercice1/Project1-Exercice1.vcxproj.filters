@@ -11,7 +11,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="PairImpair.cpp">
+    <ClCompile Include=".cpp">
       <Filter>Fichiers sources</Filter>
     </ClCompile>
   </ItemGroup>
